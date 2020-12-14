@@ -1,7 +1,7 @@
 ---
 title: Stories
 hide_title: false
-excerpt: lorem-ipsum
+excerpt: 'My '
 sections: []
 template: advanced
 ---
