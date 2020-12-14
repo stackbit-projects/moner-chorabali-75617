@@ -1,7 +1,7 @@
 ---
 title: Stories
 hide_title: false
-excerpt: 'My '
+excerpt: My stories
 sections: []
 template: advanced
 ---
