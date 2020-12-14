@@ -5,7 +5,7 @@ excerpt: My stories
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    posts_number: 0
+    posts_number: 6
     actions: []
     type: section_posts
 template: advanced
