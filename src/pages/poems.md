@@ -1,7 +1,7 @@
 ---
 title: Poems
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: My poems
 sections: []
 template: advanced
 ---
