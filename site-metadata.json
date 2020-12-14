@@ -55,16 +55,7 @@
     },
     "footer": {
         "content": "&copy; All rights reserved.",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "মনের চোরাবালি"
 }
